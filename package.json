@@ -1,0 +1,14 @@
+{
+  "name": "shiza-logs-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot relais de logs Discord vers un serveur externe, en Components V2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.1",
+    "dotenv": "^18.0.9"
+  }
+}
